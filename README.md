@@ -1,5 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swff0718)](https://solved.ac/swff0718/)
 
+![swff0718's github stats](https://github-readme-stats.vercel.app/api?username=swff0718&show_icons=true)
+[![swff0718's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swff0718&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/swff0718)
 
 
 <!--
