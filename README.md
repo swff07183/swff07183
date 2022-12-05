@@ -2,9 +2,10 @@
 
 
 ### Github Stats
+[![swff07183's GitHub stats](https://github-readme-stats.vercel.app/api?username=swff07183)](https://github.com/swff07183/github-readme-stats)
 
-| <a href="https://github.com/swff07183/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=swff07183&show_icons=true&include_all_commits=true&hide_border=true" alt="swff07183's github stats" /></a> | <a href="https://github.com/swff07183/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swff07183&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swff07183&layout=compact)](https://github.com/swff07183/github-readme-stats)
 
 ### Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swff0718)](https://solved.ac/swff0718/)
